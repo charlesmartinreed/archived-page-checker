@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Save the Internet!",
+  "name": "Save the Internet?",
   "description": "A simple extension that checks whether the current page has been archived and, if so, provides a means to view the cached page.",
   "version": "1.0",
   "action": {
